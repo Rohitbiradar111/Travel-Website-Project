@@ -1,6 +1,8 @@
 <div align="center">
   <div>
+    <a href="https://github.com/Rohitbiradar111/Travel-Website-Project" target="_blank">
       <img src="https://github.com/user-attachments/assets/5a158124-656f-4f09-80a9-022ee3177116" alt="Project Image">
+    </a>
   </div>
   <h1 align="center">Travado - Travel Website</h1>
 </div>
@@ -66,7 +68,9 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 ## <a name="documentation">📖 Documentation</a>
 
 [Next.js](https://nextjs.org/)
+
 [TailwindCSS](https://tailwindcss.com/)
+
 [TypeScript](https://www.typescriptlang.org/)
 
 ## <a name="contribute">📫 Contribute</a>
