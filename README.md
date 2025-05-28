@@ -2,17 +2,7 @@
   <div>
       <img src="https://github.com/user-attachments/assets/5a158124-656f-4f09-80a9-022ee3177116" alt="Project Image">
   </div>
-<!--   <div>
-    <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
-    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-  </div> -->
-
   <h1 align="center">Travado - Travel Website</h1>
-
-   <!-- <div align="center"> -->
-<!--      Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family! -->
-<!--     </div> -->
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -56,7 +46,7 @@ Follow these steps to set up the project locally on your machine.
 **clone the repository**
 
 ```bash
-git clone https://github.com/Rohitbiradar111/Blog-Project.git
+git clone https://github.com/Rohitbiradar111/Travel-Website-Project.git
 ```
 
 **Install dependencies**
